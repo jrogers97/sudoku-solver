@@ -1,3 +1,3 @@
 # Sudoku Solver
 
-Solves any unfinished Sudoku board provided by the user, uses vanilla JavaScript.
+Solves any unfinished Sudoku board provided by the user, using HTML, CSS, and vanilla JavaScript.
