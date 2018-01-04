@@ -17,6 +17,12 @@
 
 }
 
+#instructions {
+	text-align: center;
+	color: white;
+	font-size: 15px;
+}
+
 #buttons-container {
 	width: 150px;
 	height: 30px;
